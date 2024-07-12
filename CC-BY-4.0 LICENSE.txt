@@ -1,6 +1,8 @@
-Creative Commons Attribution 4.0 International Public License
+The file in this repository are free to use under the CC-BY-4.0 License.
+If you are using any material, I recommend to acknoledge the source as follows: Maël Doré, IUSSI24 Meeting
 
-Copyright (c) 2024 Maël Doré
+
+Creative Commons Attribution 4.0 International Public License
 
 
 By exercising the Licensed Rights (defined below), You accept and agree
